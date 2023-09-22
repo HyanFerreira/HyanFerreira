@@ -1,6 +1,6 @@
 ## Hyan Ferreira
 
-<div display="flex" gap="15px">
+<div>
     <a href="#"><img src="./instagram.svg" alt="instagram"></a>
     <a href="#"><img src="./linkedin.svg" alt="linkedin"></a>
 </div>
