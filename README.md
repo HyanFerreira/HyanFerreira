@@ -1,7 +1,8 @@
 ## Hyan Ferreira
 
 <div style="display: flex; gap: 15px;">
-    <a href="#"><img src="./instagram.svg" alt="instagram"></a> <a href="#"><img src="./linkedin.svg" alt="linkedin"></a>
+    <a href="#"><img src="./instagram.svg" alt="instagram"></a>
+    <a href="#"><img src="./linkedin.svg" alt="linkedin"></a>
 </div>
 
 ### Hello Devs!! Sejam bem-vindos(as) ao meu perfil do GitHub!
