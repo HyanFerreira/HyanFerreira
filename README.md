@@ -1,8 +1,8 @@
 ## Hyan Ferreira
 
 <div>
-    <a href="#"><img src="./instagram.svg" alt="instagram"></a>
-    <a href="#"><img src="./linkedin.svg" alt="linkedin"></a>
+    <a href="#"><img src="./instagram.svg" alt="instagram" width="50" style="margin-right: 20px;"></a>
+    <a href="#"><img src="./linkedin.svg" alt="linkedin" width="50"></a>
 </div>
 
 ### Hello Devs!! Sejam bem-vindos(as) ao meu perfil do GitHub!
