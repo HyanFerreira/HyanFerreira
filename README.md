@@ -1,13 +1,16 @@
-## Hyan Ferreira.
+## Hyan Ferreira
 
-<img src="./instagram.svg" alt="instagram"> <img src="./linkedin.svg" alt="linkedin">
+<div>
+    <img src="./instagram.svg" alt="instagram" style="padding-right: 15px;"> <img src="./linkedin1.svg" alt="linkedin">
+</div>
 
-### Bem-vindo(a) ao meu perfil do GitHub!
+### Hello Devs!! Sejam bem-vindos(as) ao meu perfil do GitHub!
+Eu tenho 19 anos, moro no Litoral Norte de São Paulo, sou fascinado por tecnologia e amo programação! Além disso, também sou fã dos esportes, ou melhor, de um em específico. Eu amo basketball..
+
+
 
 - 🔭 Atualmente estou estudando no Instituto Federal de São Paulo, Câmpus Caraguatatuba.
 - 🌱 Atualmente estou aprendendo:
-<i class="devicon-django-plain-wordmark"></i>
-
 - 👯 Estou procurando colaborar em ...
 - 🤔 Estou procurando ajuda com ...
 - 💬 Pergunte-me sobre ...
