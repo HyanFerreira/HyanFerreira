@@ -18,6 +18,13 @@ Eu tenho 19 anos, moro no Litoral Norte de São Paulo, sou fascinado por tecnolo
 - 😄 Pronomes: ...
 - ⚡ Curiosidade: ...
 
+<div>
+<a href="https://github.com/HyanFerreira">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HyanFerreira&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=HyanFerreira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
+
 <!-- ### Hi there 👋
 
 
