@@ -1,7 +1,7 @@
 ## Hyan Ferreira
 
 <div>
-    <img src="./instagram.svg" alt="instagram" style="padding-right: 50px;"> <img src="./linkedin.svg" alt="linkedin">
+    <img src="./instagram.svg" alt="instagram" style="padding-right: 150px;"> <img src="./linkedin.svg" alt="linkedin">
 </div>
 
 ### Hello Devs!! Sejam bem-vindos(as) ao meu perfil do GitHub!
