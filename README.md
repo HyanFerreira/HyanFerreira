@@ -1,6 +1,8 @@
-### Hyan Ferreira.
+## Hyan Ferreira.
 
-## Bem-vindo(a) ao meu perfil do GitHub!
+<img src="./instagram.svg" alt="instagram"> <img src="./linkedin.svg" alt="linkedin">
+
+### Bem-vindo(a) ao meu perfil do GitHub!
 
 - 🔭 Atualmente estou estudando no Instituto Federal de São Paulo, Câmpus Caraguatatuba.
 - 🌱 Atualmente estou aprendendo:
