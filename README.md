@@ -1,45 +1,35 @@
-## Hyan Ferreira
+</br>
+
+# Hyan Ferreira
 
 <div display="inline-blick">
 <a href="https://instagram.com/hyanferreira27?igshid=MzMyNGUyNmU2YQ=="><img src="./instagram.png" alt="instagram"></a>‎ ‎ ‎ <a href="#"><img src="./linkedin.png" alt="linkedin"></a>
 </div>
 
+</br>
 
-### Hello Devs!! Sejam bem-vindos(as) ao meu perfil do GitHub!
-Eu tenho 19 anos, moro no Litoral Norte de São Paulo, sou fascinado por tecnologia e amo programação! Além disso, também sou fã dos esportes, ou melhor, de um em específico. Eu amo basketball..
+## Hello Devs!! Sejam bem-vindos(as) ao meu perfil do GitHub!
+Tenho 19 anos e moro no Litoral Norte de São Paulo. Sou apaixonado por tecnologia desde os meus 12 anos e amo programação! Além disso, sou fã de um esporte em particular: basquete. Minha história no basquete é longa e interessante, mas é difícil contá-la aqui.
+
+</br>
+
+- 📚 Atualmente estou estudando no IFSP, Câmpus Caraguatatuba, aprendendo:
+
+‎ ‎‎ ‎ ‎ ‎ ‎ ‎ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  width="50px" height="50px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50px" height="50px"/>
+
+- 🥤🎮 Eu amo games e refrigerante, meu refri favorito é o Guaraná Mantiqueira. Já o game favorito.. díficil de escolher um!
+
+</br>
+
+### 🖥️ Tecnologias e Ferramentas: 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50px" height="50px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  width="50px" height="50px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  width="50px" height="50px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px" height="50px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg"  width="50px" height="50px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"  width="50px" height="50px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"  width="50px" height="50px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"  width="50px" height="50px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"  width="50px" height="50px"/>
 
 
+</br>
 
-- 🔭 Atualmente estou estudando no Instituto Federal de São Paulo, Câmpus Caraguatatuba.
-- 🌱 Atualmente estou aprendendo:
-- 👯 Estou procurando colaborar em ...
-- 🤔 Estou procurando ajuda com ...
-- 💬 Pergunte-me sobre ...
-- 📫 Como entrar em contato comigo: ...
-- 😄 Pronomes: ...
-- ⚡ Curiosidade: ...
-
+##
 <div align="center">
     <a href="https://github.com/HyanFerreira">
     <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HyanFerreira&layout=compact&langs_count=7&theme=dracula"/>
     <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=HyanFerreira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-
-
-<!-- ### Hi there 👋
-
-
-**HyanFerreira/HyanFerreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50px" height="50px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  width="50px" height="50px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: Ele/dela
-- ⚡ Fun fact: sou gay -->
