@@ -30,5 +30,5 @@ Tenho 19 anos e moro no Litoral Norte de São Paulo. Sou apaixonado por tecnolog
 <div align="center">
     <a href="https://github.com/HyanFerreira">
     <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HyanFerreira&layout=compact&langs_count=7&theme=dracula"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jeniblodev&layout=compact&langs_count=8&theme=algolia"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jeniblodev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </div>
