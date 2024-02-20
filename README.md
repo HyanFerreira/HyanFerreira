@@ -3,7 +3,7 @@
 # Hyan Ferreira
 
 <div display="inline-blick">
-<a href="https://instagram.com/hyanferreira27?igshid=MzMyNGUyNmU2YQ=="><img src="./instagram.png" alt="instagram" width="40"></a>‎ ‎ ‎ <a href="https://www.linkedin.com/in/hyan-ferreira-926b30225/"><img src="./linkedin.png" alt="linkedin" width="40"></a>
+<a href="https://instagram.com/hferreira_dev=="><img src="./instagram.png" alt="instagram" width="40"></a>‎ ‎ ‎ <a href="https://www.linkedin.com/in/hyan-ferreira-926b30225/"><img src="./linkedin.png" alt="linkedin" width="40"></a>
 </div>
 
 </br>
