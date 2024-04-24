@@ -2,7 +2,7 @@
 
 ## Hello Devs!! Welcome to my GitHub profile!
 
-Hello! I'm Hyan Ferreira, a web developer passionate about transforming creative concepts into memorable digital experiences. My goal is to go beyond simple code, creating unique solutions that captivate and surprise. If you are curious to learn more about me and my work, I invite you to explore my portfolio at <a href="https://hyandev.netlify.app">hyandev.netlify.app</a> for a more detailed look at my skills and projects.
+Hello! I'm Hyan Ferreira, a web developer passionate about transforming creative concepts into memorable digital experiences. My goal is to go beyond simple code, creating unique solutions that captivate and surprise. If you are curious to learn more about me and my work, I invite you to explore my portfolio at <a href="https://hyandev.netlify.app" target="_blank">hyandev.netlify.app</a> for a more detailed look at my skills and projects.
 
 - 📚 Doing my Technologist in Systems Analysis and Development at IFSP!
 
