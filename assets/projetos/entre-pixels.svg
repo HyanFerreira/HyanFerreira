@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="520" viewBox="0 0 960 520" role="img" aria-labelledby="t d">
+<title id="t">Entre Pixels</title><desc id="d">Capa ilustrativa bordô e creme para um produto de memórias e presentes digitais para casais.</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#41000F"/><stop offset="1" stop-color="#790F29"/></linearGradient></defs>
+<rect width="960" height="520" rx="20" fill="url(#bg)"/>
+<circle cx="925" cy="30" r="245" fill="#FC9BAB" opacity=".09"/>
+<text x="54" y="83" font-family="Georgia,serif" font-size="18" letter-spacing="4" fill="#F5C6CB">PRESENTES COM SIGNIFICADO</text>
+<text x="52" y="150" font-family="Georgia,serif" font-size="55" font-weight="700" fill="#FFF4EE">Entre Pixels</text>
+<text x="54" y="193" font-family="Arial,sans-serif" font-size="20" fill="#F4D4D4">Histórias e memórias que merecem durar.</text>
+<g transform="translate(93 280)">
+<rect x="-9" y="7" width="142" height="142" rx="17" transform="rotate(-20 62 77)" fill="none" stroke="#F5BCB5" stroke-width="11"/>
+<rect x="85" y="5" width="142" height="142" rx="17" transform="rotate(20 156 76)" fill="none" stroke="#F5BCB5" stroke-width="11"/>
+<path d="M62 82L107 128L155 80" fill="none" stroke="#FFD6CF" stroke-width="7" stroke-linecap="round"/>
+</g>
+<rect x="475" y="67" width="420" height="385" rx="22" fill="#FAF5EE"/>
+<rect x="498" y="91" width="374" height="232" rx="13" fill="#E4CCD2"/>
+<rect x="516" y="111" width="338" height="193" rx="9" fill="#F2D7DB"/>
+<circle cx="597" cy="168" r="44" fill="#D5A8B8"/>
+<circle cx="746" cy="171" r="44" fill="#D5A8B8"/>
+<path d="M554 242Q596 191 645 234Q686 186 731 230Q790 194 831 252V304H516V277Z" fill="#C4849A"/>
+<text x="685" y="362" text-anchor="middle" font-family="Georgia,serif" font-size="26" fill="#580112">Nosso momento especial</text>
+<text x="685" y="387" text-anchor="middle" font-family="Arial,sans-serif" font-size="14" fill="#936C76">Um espaço só de vocês</text>
+<rect x="602" y="402" rx="11" width="167" height="29" fill="#580112"/>
+<text x="685" y="422" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" font-weight="600" fill="white">Ver lembranças</text>
+</svg>

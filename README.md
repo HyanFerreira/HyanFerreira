@@ -1,43 +1,92 @@
-## Hello, devs! Welcome to my GitHub profile.
+<p align="center">
+  <img src="assets/banner.svg" width="840" alt="Olá! Eu sou Hyan Ferreira, Desenvolvedor Full Stack">
+</p>
 
-I'm Hyan Ferreira, a Full Stack Developer focused on building web systems, administrative dashboards, institutional portals and modern interfaces.
+<p align="center">
+  <a href="https://hyanferreira.com.br"><img src="https://img.shields.io/badge/Portf%C3%B3lio-hyanferreira.com.br-224960?style=flat-square" alt="Portfólio"></a>
+  <a href="https://www.linkedin.com/in/hyanferreira"><img src="https://img.shields.io/badge/LinkedIn-hyanferreira-224960?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:hyanferreira.dev@gmail.com"><img src="https://img.shields.io/badge/E--mail-hyanferreira.dev%40gmail.com-224960?style=flat-square&logo=gmail&logoColor=white" alt="E-mail"></a>
+</p>
 
-My main stack includes Laravel, Livewire, React.js, Next.js, Tailwind CSS and MySQL. I enjoy working on complete solutions, from database modeling and backend logic to responsive interfaces and user experience.
+<img align="right" width="135" src="https://avatars.githubusercontent.com/u/114369661?v=4" alt="Foto de perfil de Hyan Ferreira">
 
-I'm currently pursuing a Technology Degree in Systems Analysis and Development at IFSP and continuously improving my skills through academic projects, professional experience and personal studies.
+Sou **desenvolvedor Full Stack**, de Caraguatatuba (SP), com foco em **PHP, Laravel, Livewire e Next.js**. Atuo no desenvolvimento de sistemas web, portais institucionais, APIs e interfaces administrativas. Sou estagiário na área de Informática Educativa da Secretaria de Educação de Caraguatatuba e estudante de Análise e Desenvolvimento de Sistemas no IFSP.
 
-You can also check out my portfolio at <a href="https://hyanferreira.com.br" target="_blank">hyanferreira.com.br</a>.
+- **Sistema de Estagiários:** atuo na manutenção e modernização de um sistema legado, com refatoração de interfaces, gestão de cadastros, substituições, contratos e regras de negócio.
+- **Portal da Educação:** contribuo para o desenvolvimento de módulos de conteúdo, gestão e indicadores, com atenção à experiência de usuários e administradores.
+- **SIGTU:** participo do desenvolvimento de uma solução de transporte universitário com frontend em Next.js, API Laravel e validação de presença por QR Code.
+- **Hackathons e ensino:** conquistei o **3º lugar no Hackathon IFSP 2025**, participei do desenvolvimento do **Paideia** no Hackathon 2026 e ministrei minicursos introdutórios de HTML, Tailwind CSS, PHP e Laravel no IFSP.
 
-## 🛠️ Main Stack
+<br clear="right">
 
-<div align="left">
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=livewire&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-</div>
+## Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,js,ts,react,nextjs,tailwind,html,css,git,github&perline=6" alt="Tecnologias: PHP, Laravel, MySQL, JavaScript, TypeScript, React, Next.js, Tailwind CSS, HTML, CSS, Git e GitHub">
+</p>
+
+<p align="center">
+  Também utilizo <strong>Livewire, Alpine.js, TallStackUI, Jetstream, Sanctum, APIs REST, Docker e Linux</strong>.
+</p>
+
+## Projetos
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://hyanferreira.com.br/projetos/portal-educacional-aurora"><img src="https://hyanferreira.com.br/projects/instituto-aurora/homepage.png" alt="Prévia do Portal Educacional Aurora"></a>
+      <br><strong><a href="https://hyanferreira.com.br/projetos/portal-educacional-aurora">Portal Educacional Aurora</a></strong>
+      <br>Versão demonstrativa de um portal com CMS administrativo, notícias, escolas, eventos, documentos e indicadores. Usa dados fictícios para apresentar o projeto sem expor informações institucionais.
+      <br><sub>Laravel · Livewire · Tailwind CSS · MySQL</sub>
+      <br><sub><a href="https://instituto-aurora.hyanferreira.com.br/">Abrir demo</a></sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://hyanferreira.com.br/projetos/bug-no-anzol-paideia"><img src="https://hyanferreira.com.br/projects/bugnoanzol/student-dashboard.png" alt="Dashboard do estudante no Paideia"></a>
+      <br><strong><a href="https://hyanferreira.com.br/projetos/bug-no-anzol-paideia">Bug no Anzol — Paideia</a></strong>
+      <br>Plataforma educacional gamificada, desenvolvida em equipe no Hackathon IFSP 2026, com XP, conquistas, desafios, rankings e acompanhamento do aprendizado.
+      <br><sub>Next.js · TypeScript · Laravel · Reverb</sub>
+      <br><sub><a href="https://bugnoanzol.hyanferreira.com.br/">Abrir demo</a> · <a href="https://github.com/HyanFerreira/hackathon-project-frontend">Código do frontend</a></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="assets/projetos/sistema-estagiarios.svg" alt="Capa ilustrativa do Sistema de Estagiários">
+      <br><strong>Sistema de Estagiários</strong>
+      <br>Modernização e evolução de um sistema institucional de gestão de estagiários, com dashboards, fluxos de cadastro, acompanhamento de contratos e substituições.
+      <br><sub>Laravel · Livewire · TallStackUI · MySQL</sub>
+      <br><sub>Projeto institucional · código privado</sub>
+    </td>
+    <td width="50%" valign="top">
+      <img src="assets/projetos/sigtu.svg" alt="Capa ilustrativa do SIGTU">
+      <br><strong>SIGTU — Transporte Universitário</strong>
+      <br>Projeto colaborativo de gestão do transporte universitário, com linhas, vínculos de estudantes, controle de presença por QR Code e integração entre frontend e API.
+      <br><sub>Next.js · TypeScript · Laravel API · MySQL</sub>
+      <br><sub>Projeto em equipe</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="assets/projetos/entre-pixels.svg" alt="Capa ilustrativa do Entre Pixels">
+      <br><strong>Entre Pixels</strong>
+      <br>Produto pessoal em desenvolvimento para criar presentes digitais e guardar memórias especiais, com experiências personalizadas para casais.
+      <br><sub>Laravel · Livewire · Tailwind CSS · MySQL</sub>
+      <br><sub>Produto próprio · em desenvolvimento</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://hyanferreira.com.br/projetos/scrollfolio-template"><img src="https://hyanferreira.com.br/projects/scrollfolio/homepage.png" alt="Prévia do Scrollfolio Template"></a>
+      <br><strong><a href="https://hyanferreira.com.br/projetos/scrollfolio-template">Scrollfolio Template</a></strong>
+      <br>Template de portfólio responsivo, com seções reutilizáveis, navegação fluida e uma apresentação visual voltada a projetos e serviços.
+      <br><sub>Next.js · React · TypeScript · Tailwind CSS</sub>
+      <br><sub><a href="https://scrollfolio.hyanferreira.com.br/">Abrir demo</a></sub>
+    </td>
+  </tr>
+</table>
+
+Os projetos institucionais podem ter código privado. As imagens desses projetos são capas ilustrativas; as demonstrações do portfólio usam dados fictícios quando necessário.
 
 <br>
 
-## ⚙️ Tools & Workflow
-
-<div align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/API_REST-02569B?style=for-the-badge" />
-</div>
-
-<br>
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/HyanFerreira">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HyanFerreira&layout=compact&langs_count=8&theme=algolia"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=HyanFerreira&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  </a>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HyanFerreira/HyanFerreira/output/github-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/HyanFerreira/HyanFerreira/output/github-snake.svg" alt="Animação das contribuições do GitHub de Hyan Ferreira">
+</picture>
