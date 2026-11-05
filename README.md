@@ -5,8 +5,6 @@
   </picture>
 </p>
 
-<br>
-
 <p align="center">
   <a href="https://hyanferreira.com.br"><img src="https://img.shields.io/badge/Portf%C3%B3lio-hyanferreira.com.br-224960?style=flat-square" alt="Portfólio"></a>
   <a href="https://www.linkedin.com/in/hyanferreira"><img src="https://img.shields.io/badge/LinkedIn-hyanferreira-224960?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
