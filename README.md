@@ -11,7 +11,7 @@
   <a href="mailto:hyanferreira.dev@gmail.com"><img src="https://img.shields.io/badge/E--mail-hyanferreira.dev%40gmail.com-224960?style=flat-square&logo=gmail&logoColor=white" alt="E-mail"></a>
 </p>
 
-<img align="right" width="150" src="assets/mascote-hyan.png" alt="Mascote do Hyan Ferreira fazendo joinha">
+<img align="right" width="200" src="assets/mascote-hyan.png" alt="Mascote do Hyan Ferreira fazendo joinha">
 
 Sou **desenvolvedor Full Stack**, de Caraguatatuba (SP), com foco em **PHP, Laravel, Livewire e Next.js**. Atuo no desenvolvimento de sistemas web, portais institucionais, APIs e interfaces administrativas. Sou estagiário na área de Informática Educativa da Secretaria de Educação de Caraguatatuba e estudante de Análise e Desenvolvimento de Sistemas no IFSP.
 
