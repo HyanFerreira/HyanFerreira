@@ -1,9 +1,13 @@
+<br>
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner.svg">
     <img src="assets/banner.svg" width="840" alt="Olá, eu sou Hyan Ferreira — Desenvolvedor Full Stack">
   </picture>
 </p>
+
+<br>
 
 <p align="center">
   <a href="https://hyanferreira.com.br"><img src="https://img.shields.io/badge/Portf%C3%B3lio-hyanferreira.com.br-224960?style=flat-square" alt="Portfólio"></a>
