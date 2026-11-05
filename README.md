@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/banner.svg">
-    <img src="assets/banner.svg" width="840" alt="Olá, eu sou Hyan Ferreira — Desenvolvedor Full Stack">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-teste.svg">
+    <img src="assets/banner-teste.svg" width="840" alt="Olá, eu sou Hyan Ferreira — Desenvolvedor Full Stack">
   </picture>
 </p>
 
