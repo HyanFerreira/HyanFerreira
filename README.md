@@ -25,17 +25,10 @@ Sou **desenvolvedor Full Stack**, de Caraguatatuba (SP), com foco em **PHP, Lara
 ## Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,js,ts,react,nextjs,tailwind,html,css,git,github,alpinejs,linux&perline=7" alt="Tecnologias: PHP, Laravel, MySQL, JavaScript, TypeScript, React, Next.js, Tailwind CSS, HTML, CSS, Git, GitHub, Alpine.js e Linux">
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,alpinejs,linux,git,github,html,css,tailwind,js,ts,react,nextjs&perline=7" alt="Tecnologias: PHP, Laravel, MySQL, Alpine.js, Linux, Git, GitHub, HTML, CSS, Tailwind CSS, JavaScript, TypeScript, React e Next.js">
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Livewire-101B2D?style=flat-square&logo=livewire&logoColor=FB70A9" alt="Livewire">
-  <img src="https://img.shields.io/badge/TallStackUI-101B2D?style=flat-square" alt="TallStackUI">
-  <img src="https://img.shields.io/badge/Jetstream-101B2D?style=flat-square" alt="Jetstream">
-  <img src="https://img.shields.io/badge/Sanctum-101B2D?style=flat-square" alt="Sanctum">
-</p>
-
-<p align="center"><sub>Também trabalho com APIs REST.</sub></p>
+<p align="center">Livewire · TallStackUI · Jetstream · Sanctum · APIs REST</p>
 
 ## Projetos
 
