@@ -25,7 +25,7 @@ Sou **desenvolvedor Full Stack**, de Caraguatatuba (SP), com foco em **PHP, Lara
 ## Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,js,ts,react,nextjs,tailwind,html,css,git,github,alpinejs,linux&perline=5" alt="Tecnologias: PHP, Laravel, MySQL, JavaScript, TypeScript, React, Next.js, Tailwind CSS, HTML, CSS, Git, GitHub, Alpine.js e Linux">
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,js,ts,react,nextjs,tailwind,html,css,git,github,alpinejs,linux&perline=6" alt="Tecnologias: PHP, Laravel, MySQL, JavaScript, TypeScript, React, Next.js, Tailwind CSS, HTML, CSS, Git, GitHub, Alpine.js e Linux">
 </p>
 
 <p align="center">
